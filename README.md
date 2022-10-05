@@ -1,1 +1,1 @@
-Primeiro commit
+In this project I will take a course, in which he implements NodeJs, TDD, Clean Architecture and SOLID
