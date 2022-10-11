@@ -170,6 +170,8 @@ export default {
   // This option allows the use of a custom results processor
   // testResultsProcessor: undefined,
 
+  preset: '@shelf/jest-mongodb',
+
   // This option allows use of a custom test runner
   // testRunner: "jest-circus/runner",
 
