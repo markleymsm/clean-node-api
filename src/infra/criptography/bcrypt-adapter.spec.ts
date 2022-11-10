@@ -32,6 +32,6 @@ describe('Bcrypt adapter', () => {
       throw new Error()
     })
     const promise = sut.encrypt('any_value')
-    await expect(promise).rejects.toThrow('hash')
+    await expect(promise).rejects.toThrow()
   })
 })
